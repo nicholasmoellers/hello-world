@@ -1,2 +1,2 @@
 # hello-world
-Trying out GitHub for the first time
+Editing the readme file with this new description
